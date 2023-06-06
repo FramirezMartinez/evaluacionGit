@@ -51,6 +51,10 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit thi
                     </tr>
                 </tbody>
             </table>
+            
+            <br>
+            <a href="imagen.jsp">ver imagen</a>
+
         </div>
     </body>
 </html>
